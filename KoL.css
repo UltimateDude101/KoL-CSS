@@ -1,5 +1,5 @@
 html {
-	filter: invert(100%);
+	filter: invert(100%)
 	hue-rotate(180deg);
 	background-color: black;
 }
